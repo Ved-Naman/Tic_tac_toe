@@ -27,9 +27,7 @@ Players choose a position, and the board updates until someone wins or all posit
 
 ## 📁 Project Structure
 
-tic_tac_toe/
-│
-├── main.py # Contains the full game logic
+tic_tac_toe/  main.py # Contains the full game logic
 
 ## ▶️ How to Run the Game
 
